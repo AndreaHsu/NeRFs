@@ -1,5 +1,7 @@
 # JaxNeRF
 
+## This is fork from [JAXNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) ##
+
 This is a [JAX](https://github.com/google/jax) implementation of
 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://www.matthewtancik.com/nerf).
 This code is created and maintained by
